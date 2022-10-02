@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FixTearing
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+    - {fileID: 2800000, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1732426596, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1939279246, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 761632318, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -225771011, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -870465524, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -2015365846, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1347017903, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1336588366, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 2085381195, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -500893795, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 2127996304, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -483726677, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -197369100, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -463196708, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1323702273, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1066136742, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1490817664, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 173996161, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 869398705, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -985199843, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1179035784, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -393039015, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 2136354624, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 342376042, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1423777176, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -2011375745, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 745199496, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 2119026325, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -631746388, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 348732339, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -683205921, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1611873636, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -604562196, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1287377628, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1282829795, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1817232279, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1301911115, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 2069163328, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1397384867, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1658379651, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -614359590, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 872170441, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 354670184, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -1864107309, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 2109125403, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: -639211483, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 1011400990, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 265221435, guid: ccd35322f3f514d9097ec43c8c84a5ba, type: 3}
+  - {fileID: 152872598, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -506939621, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -436062630, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 1684868016, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -244165982, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -550544177, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 737652926, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -278293263, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 1362871771, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -425656375, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -1469336233, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -350475162, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 403199428, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -705385953, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -1811580798, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -603516629, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -1053021569, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -644151610, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -1071624431, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: -137252513, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 1449799695, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 1893579856, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 829485093, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  - {fileID: 296657475, guid: fc70f9a5571bc488388758c2ed16801b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lvl-tiles_22
+  - lvl-tiles_42
+  - lvl-tiles_23
+  - lvl-tiles_33
+  - lvl-tiles_43
+  - lvl-tiles_24
+  - lvl-tiles_32
+  - lvl-tiles_40
+  - lvl-tiles_25
+  - lvl-tiles_31
+  - lvl-tiles_41
+  - lvl-tiles_26
+  - lvl-tiles_30
+  - lvl-tiles_46
+  - lvl-tiles_27
+  - lvl-tiles_37
+  - lvl-tiles_47
+  - lvl-tiles_2
+  - lvl-tiles_28
+  - lvl-tiles_36
+  - lvl-tiles_44
+  - lvl-tiles_3
+  - lvl-tiles_29
+  - lvl-tiles_35
+  - lvl-tiles_45
+  - lvl-tiles_0
+  - lvl-tiles_34
+  - lvl-tiles_1
+  - lvl-tiles_6
+  - lvl-tiles_7
+  - lvl-tiles_39
+  - lvl-tiles_4
+  - lvl-tiles_38
+  - lvl-tiles_5
+  - lvl-tiles_8
+  - lvl-tiles_9
+  - lvl-tiles_19
+  - lvl-tiles_18
+  - lvl-tiles_11
+  - lvl-tiles_10
+  - lvl-tiles_13
+  - lvl-tiles_12
+  - lvl-tiles_15
+  - lvl-tiles_14
+  - lvl-tiles_17
+  - lvl-tiles_16
+  - lvl-tiles_20
+  - lvl-tiles_21
+  - terminal-tiles_23
+  - terminal-tiles_33
+  - terminal-tiles_24
+  - terminal-tiles_32
+  - terminal-tiles_40
+  - terminal-tiles_25
+  - terminal-tiles_41
+  - terminal-tiles_26
+  - terminal-tiles_30
+  - terminal-tiles_47
+  - terminal-tiles_57
+  - terminal-tiles_56
+  - terminal-tiles_29
+  - terminal-tiles_50
+  - terminal-tiles_48
+  - terminal-tiles_39
+  - terminal-tiles_49
+  - terminal-tiles_64
+  - terminal-tiles_78
+  - terminal-tiles_16
+  - terminal-tiles_61
+  - terminal-tiles_63
+  - terminal-tiles_72
+  - terminal-tiles_71
+  m_RenderDataMap: {}
+  m_Tag: FixTearing
+  m_IsVariant: 0
