@@ -469,7 +469,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -567,7 +566,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -1534,7 +1532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -2170,7 +2167,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -2321,7 +2317,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -2419,7 +2414,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -3245,7 +3239,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -4250,7 +4243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -4676,7 +4668,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -5024,7 +5015,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -5175,7 +5165,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -7551,7 +7540,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -8448,7 +8436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -8665,7 +8652,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -8944,7 +8930,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -9696,7 +9681,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -9915,7 +9899,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -9996,8 +9979,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: INFLUENCED
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: fd7cce85364344228890d740343ac4d8, type: 2}
+  m_sharedMaterial: {fileID: 2067045440799069825, guid: fd7cce85364344228890d740343ac4d8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -10696,7 +10679,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -10763,7 +10745,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -10978,7 +10959,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -11168,7 +11148,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -11933,7 +11912,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -12275,7 +12253,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -13343,7 +13320,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -13974,7 +13950,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -14075,7 +14050,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -14766,7 +14740,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2
@@ -15033,7 +15006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a18860cdc97964c0ba02b9c990c35119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints: []
   from: -45
   to: 45
   duration: 2

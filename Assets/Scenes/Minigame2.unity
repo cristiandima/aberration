@@ -4102,7 +4102,7 @@ MonoBehaviour:
   inputs:
   - {fileID: 64388461}
   - {fileID: 1752101562}
-  - {fileID: 1549925811}
+  - {fileID: 1312145056}
   inputTypes: 000000000200000004000000
   colors:
   - {r: 0.9150943, g: 0.68002176, b: 0.012949424, a: 1}
@@ -5246,7 +5246,7 @@ MonoBehaviour:
   inputs:
   - {fileID: 64388461}
   - {fileID: 1752101562}
-  - {fileID: 1549925811}
+  - {fileID: 1312145056}
   inputTypes: 000000000200000004000000
   colors:
   - {r: 0.9150943, g: 0.68002176, b: 0.012949424, a: 1}
@@ -6312,7 +6312,7 @@ MonoBehaviour:
   inputs:
   - {fileID: 64388461}
   - {fileID: 1752101562}
-  - {fileID: 1549925811}
+  - {fileID: 1312145056}
   inputTypes: 000000000200000004000000
   colors:
   - {r: 0.9150943, g: 0.68002176, b: 0.012949424, a: 1}
@@ -6427,6 +6427,7 @@ MonoBehaviour:
   - i've been dreaming of this for a while now
   typingSpeed: 0.02
   secondPageAfter: 0
+  music: {fileID: 0}
 --- !u!4 &1586824941
 Transform:
   m_ObjectHideFlags: 0
